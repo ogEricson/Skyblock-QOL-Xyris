@@ -1,4 +1,4 @@
-# Skyblock-QOL Mod
+# Xyris QOL
 
 Enhance your Hypixel Skyblock gameplay with the Skyblock-QOL mod! This mod offers a variety of quality of life features designed to streamline and automate various tasks, making your Skyblock adventures more convenient and enjoyable.
 
