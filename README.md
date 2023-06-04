@@ -35,7 +35,7 @@ To enhance the stability and performance of your modded gameplay experience, it 
 ## Installation
 
 1. Ensure you have Minecraft version 1.8.9 and the Fabric mod loader installed.
-2. Download the latest release of Skyblock-QOL mod from the [Releases](link-to-releases-page) page.
+2. Download the latest release of Skyblock-QOL mod from the [Releases]([link-to-releases-page](https://github.com/ogEricson/Skyblock-QOL-Xyris/releases/tag/1.4.7)) page.
 3. Place the downloaded JAR file into the `mods` folder in your Minecraft installation directory.
 4. Launch Minecraft with the Fabric profile and enjoy the enhanced Skyblock experience.
 
